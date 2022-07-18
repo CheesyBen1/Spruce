@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - carCamera
+  - player
+  - wall
+  - ambient
+  - kiosk
+  - interact
+  - stationDoor
+  - car
+  - crosshair
+  - SFX
+  - key
+  - rain
+  - hospitalDoor
+  - blackScreen
+  - door
+  - matches
+  - gas
+  - candle
+  - keyUI1
+  - keyUI2
+  - startDoor
+  - secretDoor
+  - enemy
+  - doorCandle
+  - doorSecret
+  - whiteKey
+  - whiteTable
+  - brownTable
+  - brownKey
+  - whiteCandle
+  - brownCandle
+  - whiteDrawer
+  - brownDrawer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - StreeLight
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
